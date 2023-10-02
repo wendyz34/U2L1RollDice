@@ -1,0 +1,27 @@
+button{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: 2px solid black;
+    cursor: pointer;
+}
+#btn1{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+#btn2{
+    margin-left: 250px;
+    margin-top: 200px;
+
+}
+body{
+    background-image: url('dice.avif');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
+#text{
+    font-size:100px;
+    color: white;
+    margin-top: 200px;
+}
